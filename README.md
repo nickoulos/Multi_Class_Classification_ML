@@ -37,5 +37,5 @@
 
 
 Ο κώδικας που ακολουθεί, είναι ο τελικός κώδικας που οδήγησε στο βέλτιστο αποτέλεσμα προβλέψεων που επιτύχαμε(0.51347).
-Είναι υλοποιημένος με **Neural Networks** του scikit-learn με τον Multi-layer Perceptron, **MLPClassifier**, στο τροποποιημένο αρχικό **train dataset**:
+Είναι υλοποιημένος με **Neural Networks** του scikit-learn με τον Multi-layer Perceptron, **MLPClassifier**, στο τροποποιημένο αρχικό **train dataset**
 
